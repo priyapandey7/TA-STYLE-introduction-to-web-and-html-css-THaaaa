@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(67, 176, 196);
+}
+h1 {
+    text-align: center;
+}
+address{
+    font-size: 24px;
+    text-align: center;
+}
+h2{
+    color: red;
+}
+b{
+    font-size: 24px;
+    color: rgb(16, 41, 88);
+}
+a{
+    font-size: 24px;
+}
+p{
+    font-size: large;
+}
+strong{
+    font-size: large;
+    color: black;
+}
