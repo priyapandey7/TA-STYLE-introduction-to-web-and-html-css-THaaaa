@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+address{
+    font-size: 24;
+}
+h2{
+    color: red;
+}
+b{
+    font-size: 24px;
+    color: cornflowerblue;
+}
+a{
+    font-size: 24px;
+}
+p{
+    font-size: large;
+}
+strong{
+    font-size: large;
+    color: black;
+}
